@@ -84,19 +84,6 @@ function filterTable() {
 
   // 8. Set the filtered data to the tableData.
   // filterTable = JSON.parse(JSON.stringify(tableData));
-  // filterTable = filterTable.map((sighting) => {
-  //   let matchesAll = false;
-
-  //   if ((Filters.date === null || sighting.date === Filters.date ) &&
-  //       (Filters.city === null || sighting.city === Filters.city ) &&
-  //       (Filters.state === null || sighting.state === Filters.state ) &&
-  //       (Filters.country === null || sighting.country === Filters.country ) &&
-  //       (Filters.shape === null || sighting.shape === Filters.shape )
-  //     ) {
-  //       matchesAll = true;
-  //   }
-  //   return matchesAll;
-  // });
 
   // 9. Loop through all of the filters and keep any data that
   // matches the filter values
