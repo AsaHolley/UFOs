@@ -5,7 +5,7 @@
 The purpose of this project was to create a webpage and build a dynamic table to research UFO sightings from a large array of sightings. The new website is now filterable for multiple criteria at the same time. In addition to the date, the website is able to add table filters for the city, state, country, and shape.
 
 ## Results
-To use this webpage simply type into the filter bars what you are looking for using hte sample syntax provided and press the filter button. An example is listed below showing all of sighting results from 
+To use this webpage simply type into the filter bars what you are looking for using hte sample syntax provided and press the filter button. An example is listed below showing all of sighting results from searching for "ca" and the dae "1/1/2010". The website is built so that a visitor can use all 5 of the search criteria or simply just use one at a time. 
 
 ![](https://github.com/AsaHolley/UFOs/blob/main/static/images/Example%20image.png)
 
